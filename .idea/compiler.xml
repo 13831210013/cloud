@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
         <module name="config-server" />
         <module name="eureka-server" />
         <module name="serice-feign" />
         <module name="service-hi" />
+        <module name="service-miya" />
         <module name="service-ribbon1" />
         <module name="service-zuul" />
         <module name="serviceribbon1" />
