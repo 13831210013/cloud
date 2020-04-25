@@ -1,11 +1,1 @@
-# Springcloud 项目搭建。
-感谢  方志朋 大拿， 本项目架构参照其教程构建。
-
-
-
-链接：https://blog.csdn.net/forezp/article/details/70148833/
-
-
-
-
-持续更新
+# Springcloud 项目搭建
